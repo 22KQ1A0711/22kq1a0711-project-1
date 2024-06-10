@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>contact us</title>
+<form align="center">
+    FullName:<br><input type="text"name="uname"><br>
+    password:<br><input type="text"name="pass"><br>
+    phonenumber:<br><input type="text"name="number"><br>
+    E-mail id:<input type="text"name="email"><br>
+    
+    Messages:<br><input type="text"name="message"><br>
+    
+</form>
+</head>
+</html>
